@@ -1,1 +1,1 @@
-# api-nba-averages-calculator
+# api-nba
